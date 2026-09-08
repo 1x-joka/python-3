@@ -10,6 +10,6 @@
 - **Knowledge**: Propositional Logic. Entailment. Inference. Model Checking. Resolution. First Order Logic.
 - **Uncertainty**: Probability. Conditional Probability. Random Variables. Independence. Bayes’ Rule. Joint Probability. Bayesian Networks. Sampling. Markov Models. Hidden Markov Models.
 - **Optimization**: Local Search. Hill Climbing. Simulated Annealing. Linear Programming. Constraint Satisfaction. Backtracking Search.
-- **Learning**: Supervised Learning. Nearest-Neighbor Classification. Perceptron Learning. Support Vector Machines. Regression. Loss Functions. Overfitting. Regularization. Reinforcement Learning. Markov Decision Processes. Q-Learning. Unsupervised Learning. k-means Clustering.
+- **(Machine) Learning**: Supervised Learning. Nearest-Neighbor Classification. Perceptron Learning. Support Vector Machines. Regression. Loss Functions. Overfitting. Regularization. Reinforcement Learning. Markov Decision Processes. Q-Learning. Unsupervised Learning. k-means Clustering.
 - **Neural Networks**: Artificial Neural Networks. Activation Functions. Gradient Descent. Backpropagation. Overfitting. TensorFlow. Image Convolution. Convolutional Neural Networks. Recurrent Neural Networks.
 - **Language**: Syntax. Semantics. Context-Free Grammar. nltk. n-grams. Bag-of-Words Model. Naive Bayes. Word Representation. word2vec. Attention. Transformers.
